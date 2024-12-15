@@ -240,13 +240,13 @@ end;
 
 {PROGRAM UTAMA}
 begin
+clrscr;
 
     belanjaan := 0;
     total := 0;
     banyakBarang := 8;
 
     repeat
-
         tampilkanBarang;
         write('Pilih Barang (1-8): '); readln(noSTR);
         nomor := validasiPilihan(noSTR);

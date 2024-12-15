@@ -11,4 +11,4 @@ Anggota :
    
 link Google Drive : https://drive.google.com/drive/folders/1De7lV_gYrVWvHG_xIaP-fJq22nUIhl-V?usp=drive_link
 
-link Video YouTube :
+link Video YouTube : https://youtu.be/lgwLSplcjRo?si=vNH3gMqVaZdt1u2o
